@@ -10,13 +10,13 @@ echo --------------------
 
 echo "Downloading script.py"
 
-#
+curl -o script.py https://raw.githubusercontent.com/smyk07/python-video-to-frames/master/script.py
 
 echo --------------------
 
 echo "Running script.py"
 
-#
+python3 script.py
 
 echo --------------------
 
